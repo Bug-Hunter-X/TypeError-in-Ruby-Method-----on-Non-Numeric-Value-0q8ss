@@ -1,0 +1,1 @@
+This repository contains a simple Ruby example demonstrating a common runtime error: a TypeError arising from attempting to perform arithmetic operations on a non-numeric value. The bug.rb file contains the erroneous code, and bugSolution.rb provides a corrected version.
